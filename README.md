@@ -1,4 +1,4 @@
-# Module-2
+# Module 2 Fundamentals of Web Design
 <b><u>Objectives</u></b>
 <p>&#9658;Explore the history of the web</p>
 <p>&#9658;Create the structure of an HTML document</p>
