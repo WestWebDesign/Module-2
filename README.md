@@ -1,5 +1,5 @@
 # Module-2
-<b>Objectives</b>
+<b><u>Objectives</u></b>
 <p>&#9658;Explore the history of the web</p>
 <p>&#9658;Create the structure of an HTML document</p>
 <p>&#9658;Insert HTML elements and attributes</p>
