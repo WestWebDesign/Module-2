@@ -16,3 +16,4 @@
 <p>&#9658;Link to e-mail addresses and telephone numbers</p>
 
 
+<img src="webDesign2Rubric.PNG" alt="Rubric Pic" style="width:304px;height:228px;">
