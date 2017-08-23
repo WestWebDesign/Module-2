@@ -28,8 +28,6 @@ https://www.similarweb.com/blog/us-media-publications-ranking-october-2016
 What was the top ten most visited sites and which ones have you visited before and which ones have you not. Did all of the sites have a pleasing background? Which site had the least pleasing look? Why do people visit these sites?
 
 
-4. Briefly describe the difference between a centralized and decentralized system.
-
 
 5. Go to this link -https://www.similarweb.com/blog/worldwide-messaging-apps
  
